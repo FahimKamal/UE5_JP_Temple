@@ -19,7 +19,7 @@ This is the first visual impression! Consider a wide shot or a detail shot.
 Example: 
 -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Japanese+Temple+Environment+Screenshot+(WIP)" alt="Japanese Temple Environment Screenshot Placeholder" width="80%"/> 
+  <img src="https://placehold.co/800x450.png?text=Japanese+Temple+Environment+Screenshot+(WIP)" alt="Japanese Temple Environment Screenshot Placeholder" width="80%"/> 
 </p>
 <!-- ====================================================================== -->
 
@@ -49,8 +49,8 @@ Our goal is to build a visually captivating scene leveraging modern Unreal Engin
 <!-- (Add more compelling screenshots showing progress, different angles, or specific details later!) -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x338.png?text=Detail+Shot+1+(Placeholder)" alt="Screenshot 1 Placeholder" width="45%"/> 
-  <img src="https://via.placeholder.com/600x338.png?text=Detail+Shot+2+(Placeholder)" alt="Screenshot 2 Placeholder" width="45%"/>
+  <img src="https://placehold.co/600x338.png?text=Detail+Shot+1+(Placeholder)" alt="Screenshot 1 Placeholder" width="45%"/> 
+  <img src="https://placehold.co/600x338.png?text=Detail+Shot+2+(Placeholder)" alt="Screenshot 2 Placeholder" width="45%"/>
   <!-- Add more images as needed -->
 </p>
 
