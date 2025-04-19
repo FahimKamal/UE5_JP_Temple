@@ -4,7 +4,7 @@
 [![Made with Blueprints](https://img.shields.io/badge/Made%20with-Blueprints-blue)](https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html)
 [![Maya](https://img.shields.io/badge/Maya-Autodesk-lightgrey?logo=autodesk)](https://www.autodesk.com/products/maya/overview)
 [![ZBrush](https://img.shields.io/badge/ZBrush-Maxon-orange)](https://www.maxon.net/en/zbrush)
-[![Substance Painter](https://img.shields.io/badge/Substance-Painter-red?logo=adobe)](https://www.adobe.com/products/substance-3d-painter.html)
+[![Substance Painter](https://img.shields.io/badge/Substance-Painter-red?logo=adobe)](https://www.adobe.com/products/substance3d/apps/painter.html)
 [![Photoshop](https://img.shields.io/badge/Photoshop-Adobe-blue?logo=adobephotoshop)](https://www.adobe.com/products/photoshop.html)
 
 
