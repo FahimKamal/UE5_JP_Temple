@@ -145,4 +145,4 @@ Without explicit written permission from the copyright holders, you **may NOT**:
 
 **Permission for Commercial Use:**
 
-If you are interested in using this project or its assets for **commercial purposes**, please contact Fahim Kamal Ahmed at [Your Contact Email Address or GitHub Profile Link] to discuss licensing options. Granting of permission is at the sole discretion of the copyright holders and will likely involve specific terms, conditions, and potential licensing fees or revenue sharing agreements.
+If you are interested in using this project or its assets for **commercial purposes**, please contact [Fahim Kamal Ahmed](https://github.com/FahimKamal) to discuss licensing options. Granting of permission is at the sole discretion of the copyright holders and will likely involve specific terms, conditions, and potential licensing fees or revenue sharing agreements.
