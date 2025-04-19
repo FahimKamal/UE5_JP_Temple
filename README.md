@@ -7,7 +7,6 @@
 [![Substance Painter](https://img.shields.io/badge/Substance-Painter-red?logo=adobe)](https://www.adobe.com/products/substance3d/apps/painter.html)
 [![Photoshop](https://img.shields.io/badge/Photoshop-Adobe-blue?logo=adobephotoshop)](https://www.adobe.com/products/photoshop.html)
 
-
 ---
 
 <!-- 
@@ -19,7 +18,10 @@ This is the first visual impression! Consider a wide shot or a detail shot.
 Example: 
 -->
 <p align="center">
-  <img src="https://placehold.co/800x450.png?text=Japanese+Temple+Environment+Screenshot+(WIP)" alt="Japanese Temple Environment Screenshot Placeholder" width="80%"/> 
+  <img src="https://github.com/user-attachments/assets/a6e4681e-3222-4e4c-a54a-bf15234765c8" alt="Japanese Temple Environment Screenshot Placeholder" width="80%"/> 
+</p>
+<p align="center">
+  Main Concept Art
 </p>
 <!-- ====================================================================== -->
 
