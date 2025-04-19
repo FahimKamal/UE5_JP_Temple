@@ -113,7 +113,6 @@ This project provides opportunities to learn and demonstrate proficiency in:
 *   💡 **Advanced Lighting Scenarios:** Experiment with different times of day or weather conditions.
 *   🎬 **Cinematic Flythroughs:** Create Sequencer shots showcasing the environment.
 *   🚶‍♂️ **Basic Interactivity:** Potentially add simple interactions or ambient effects (e.g., opening doors, wind effects).
-*   <0xF0><0x9F><0x97><0xBD>️ **VR Exploration:** Adapt the scene for viewing in Virtual Reality (potential stretch goal).
 *   🧩 **Expand the Scene:** Increase the scope of the Japanese Temple environment (e.g., add surrounding areas, interiors).
 
 ---
