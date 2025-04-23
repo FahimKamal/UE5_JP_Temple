@@ -17,11 +17,15 @@ Add a compelling screenshot or GIF of the environment once available.
 This is the first visual impression! Consider a wide shot or a detail shot.
 Example: 
 -->
+
+
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6e4681e-3222-4e4c-a54a-bf15234765c8" alt="Japanese Temple Environment Screenshot Placeholder" width="80%"/> 
+  <img src="https://github.com/user-attachments/assets/4e30dd3f-b11b-4578-843a-ecfd460f878b" alt="Japanese Temple Environment" width="80%"/> 
 </p>
 <p align="center">
-  Main Concept Art
+  <em>Blockout Phase</em>
 </p>
 <!-- ====================================================================== -->
 
@@ -51,8 +55,8 @@ Our goal is to build a visually captivating scene leveraging modern Unreal Engin
 <!-- (Add more compelling screenshots showing progress, different angles, or specific details later!) -->
 
 <p align="center">
-  <img src="https://placehold.co/600x338.png?text=Detail+Shot+1+(Placeholder)" alt="Screenshot 1 Placeholder" width="45%"/> 
-  <img src="https://placehold.co/600x338.png?text=Detail+Shot+2+(Placeholder)" alt="Screenshot 2 Placeholder" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/2e9c59e7-1828-44d3-a43f-b8d79074584f" alt="Blockout Phase" width="45%"/> 
+  <img src="https://github.com/user-attachments/assets/4bdf3d5a-83d4-401a-bfe5-0452d85c575d" alt="Blockout Phase with Foliage and Vegetation" width="45%"/>
   <!-- Add more images as needed -->
 </p>
 
