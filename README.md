@@ -18,9 +18,6 @@ This is the first visual impression! Consider a wide shot or a detail shot.
 Example: 
 -->
 
-
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e30dd3f-b11b-4578-843a-ecfd460f878b" alt="Japanese Temple Environment" width="80%"/> 
 </p>
@@ -29,6 +26,19 @@ Example:
 </p>
 <!-- ====================================================================== -->
 
+---
+
+# ⚠️ Project Moved to GitLab ⚠️
+
+This GitHub repository is **archived** and no longer actively maintained.
+
+Due to storage limitations on GitHub's free tier for large projects (>5GB for this one!), this project has been migrated to GitLab, which offers more storage (10GB free tier).
+
+**Please find the active and updated repository here:**
+
+### [Japanese Temple Project on GitLab](https://gitlab.com/unreale5/UE5_JP_Temple)
+
+All future updates and development will happen on GitLab. Thank you! 
 ---
 
 ## 🎯 Overview
@@ -86,17 +96,17 @@ Our goal is to build a visually captivating scene leveraging modern Unreal Engin
 
 ## ▶️ Getting Started / Viewing Progress
 
-This repository contains the Unreal Engine project files for the Japanese Temple environment.
+# ⚠️ Project Moved to GitLab ⚠️
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/FahimKamal/UE_JP_Temple.git
-    ```
-2.  **Ensure Unreal Engine 5.5.1** is installed via the Epic Games Launcher.
-3.  **Open** the `.uproject` file (`UE_JP_Temple.uproject`) by double-clicking it.
-4.  Explore the levels located in `/Content/JP_Temple/Scenes/`.
+This GitHub repository is **archived** and no longer actively maintained.
 
-*(Note: As this is primarily an environment art project, direct "playability" may be limited to exploration/flythroughs unless further interactive elements are added.)*
+Due to storage limitations on GitHub's free tier for large projects (>5GB for this one!), this project has been migrated to GitLab, which offers more storage (10GB free tier).
+
+**Please find the active and updated repository here:**
+
+### [Japanese Temple Project on GitLab](https://gitlab.com/unreale5/UE5_JP_Temple)
+
+All future updates and development will happen on GitLab. Thank you!
 
 ---
 
